@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VOne</string>
+    <string name="mainCalculator">Calculator</string>
+    <string name="CalculatorVol">Volume</string>
+    <string name="CalVol">Volume</string>
+    <string name="LengthVol">Length</string>
+    <string name="HeightVol">Height</string>
+    <string name="WidthVol">Width</string>
+    <string name="VolRes">Result</string>
+
+</resources>
